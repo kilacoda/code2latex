@@ -4,6 +4,9 @@
   "description": "TeXify Your Code",
   "version": "1.0.0",
   "icon": "images/icon.png",
+  "repository": {
+    "url": "https://github.com/kilacoda/code2latex"
+  },
   "engines": {
     "vscode": "^1.90.0"
   },
