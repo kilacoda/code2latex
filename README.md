@@ -13,6 +13,8 @@ The extension preserves the whitespace and formatting of your code exactly as it
 
 The output LaTeX code is presented in a new editor window, where you can easily copy, edit and save the code as you would normally.
 
+`code2latex` also detects the language of the current file and uses it for the environment (to see which languages are supported this way and which might need slight changes on your end, please refer to [the Pygments docs](https://pygments.org/languages/)),
+
 To use the extension, select some text (multiple cursor selction supported as well), open the command panel (`Ctrl+Shift+P`), type in `code2latex` and select the command you'd like to use.
 
 ![feature X](images/extension_demo.gif)
