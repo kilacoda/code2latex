@@ -3,6 +3,7 @@
   "displayName": "code2latex",
   "description": "TeXify Your Code",
   "version": "1.0.0",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.90.0"
   },
