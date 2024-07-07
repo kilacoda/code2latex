@@ -1,8 +1,8 @@
 {
   "name": "code2latex",
-  "displayName": "Code2LaTeX",
-  "description": "Copy your code into formatted LaTeX.",
-  "version": "0.0.1",
+  "displayName": "code2latex",
+  "description": "TeXify Your Code",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -15,11 +15,11 @@
     "commands": [
       {
         "command": "code2latex.showSelectedTextAsLatexNonMerged",
-        "title": "Code2Latex: Get LaTeX code for selected text (non-merged)"
+        "title": "code2latex: Get LaTeX code for selected text (non-merged)"
       },
       {
         "command": "code2latex.showSelectedTextAsLatexMerged",
-        "title": "Code2Latex: Get LaTeX code for selected text (merged)"
+        "title": "code2latex: Get LaTeX code for selected text (merged)"
       }
     ]
   },
