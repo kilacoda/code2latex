@@ -4,6 +4,7 @@
   "description": "TeXify Your Code",
   "version": "1.0.0",
   "icon": "images/icon.png",
+  "publisher": "kilacoda",
   "repository": {
     "url": "https://github.com/kilacoda/code2latex"
   },
